@@ -17,6 +17,6 @@ else if(num>=60 && num<70)
 else if(num>=50 && num<60)
   grade="D";
 else if(num>=0 && num<50)
-  grade="E";
+  grade="F";
 
 console.log("According to your scores, your grade was : ",grade);
