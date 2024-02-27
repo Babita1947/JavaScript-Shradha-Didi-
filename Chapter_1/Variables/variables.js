@@ -37,10 +37,15 @@ let y=null;
 // console.log(typeof(price));
 // console.log(typeof(fullName));
 // console.log(typeof(isFollow));
-console.log(x);
-console.log(typeof(x));
-console.log(y);
-console.log(typeof(y));
+// console.log(x);
+// console.log(typeof(x));
+// console.log(y);
+// console.log(typeof(y));
 
 
+let vari = 89;
+console.log(vari);
+
+vari = 34;
+console.log(vari);
 
