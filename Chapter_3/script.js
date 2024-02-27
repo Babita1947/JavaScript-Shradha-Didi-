@@ -45,15 +45,15 @@
 // console.log("String size = ",size);
 
 // for-in loop
-let Student = {
-    name:"Babita Kumari",
-    roll: "10800122019",
-    age: 21,
-    cgpa: 9.1,
-    isPass: true,
-};
+// let Student = {
+//     name:"Babita Kumari",
+//     roll: "10800122019",
+//     age: 21,
+//     cgpa: 9.1,
+//     isPass: true,
+// };
 
-for(let key in Student){
-    console.log("key = ",key, " value = ",Student[key]);
-}
+// for(let key in Student){
+//     console.log("key = ",key, " value = ",Student[key]);
+// }
 

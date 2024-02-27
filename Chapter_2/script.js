@@ -76,7 +76,7 @@
 
 
 // console.log("cond1 && cond2 = ",a>b && a===b);
-// console.log("cond1 || condn = ",a<b || a===b);
+// console.log("cond1 || cond2 = ",a<b || a===b);
 // console.log("!(6<5) = ",!(a<b));
 
 
@@ -163,6 +163,7 @@
 // console.log(color);
 
 //TERNARY OPERATOR
-let age = 19;
-let result = age >= 18 ? "adult" : "not adult"; //COMPACT IF-ELSE 
-console.log(result);
+// let age = 19;
+// let result = age >= 18 ? "adult" : "not adult"; //COMPACT IF-ELSE 
+// console.log(result);
+
