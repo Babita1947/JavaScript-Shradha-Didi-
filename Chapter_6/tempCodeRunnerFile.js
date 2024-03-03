@@ -1,0 +1,1 @@
+return res > curr ? prev : curr;
