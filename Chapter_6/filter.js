@@ -15,3 +15,4 @@ let greateThanThree = arr.filter((val) => {
     return val > 3;
 });
 console.log(greateThanThree);
+

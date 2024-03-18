@@ -16,4 +16,4 @@ console.log("Sum = ",sum);
 let product = arr.reduce((res,curr) => {
     return res * curr;
 });
-console.log("Product = ",product);
+console.log("Factorial = ",product);
