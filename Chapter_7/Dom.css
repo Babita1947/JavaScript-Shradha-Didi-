@@ -1,0 +1,14 @@
+#heading1{
+    color: aliceblue;
+    background-color: crimson;
+    text-align: center;
+    text-decoration:underline;
+}
+#para{
+    background-color:cadetblue;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#heading4{
+    background-color: green;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    color: aliceblue;
+}
+ul{
+    text-align:justify;
+    background-color: darkgreen;
+    color: azure;
+}
+h2{
+    text-align: start;
+    background-color: cadetblue;
+}
